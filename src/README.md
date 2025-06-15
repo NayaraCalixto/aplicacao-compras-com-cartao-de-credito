@@ -57,13 +57,12 @@ A aplicação permite ao usuário:
 ## 📂 Como Executar
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com/seu-repositorio/aplicacao-compras-cartao
+   github.com/NayaraCalixto/aplicacao-compras-com-cartao-de-credito
 
 ## 👨‍🏫 Instrutores
-    <ul>
-        <li>Jacqueline Oliveira</li>
-        <li>Paulo Silveira</li>
-    </ul>
+  Jacqueline Oliveira
+  Paulo Silveira
 
-  <h3>🚀 Projeto do Curso Java One</h3>
-    <p>Este projeto faz parte do desafio proposto no curso <strong>Java One</strong>, com o objetivo de consolidar os aprendizados iniciais em Java através da criação de um sistema prático e funcional.</p>
+
+## 🚀 Projeto do Curso Java One
+Este projeto faz parte do desafio proposto no curso <strong>Java One</strong>, com o objetivo de consolidar os aprendizados iniciais em Java através da criação de um sistema prático e funcional.

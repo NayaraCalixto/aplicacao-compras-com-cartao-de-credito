@@ -60,8 +60,8 @@ A aplicação permite ao usuário:
    github.com/NayaraCalixto/aplicacao-compras-com-cartao-de-credito
 
 ## 👨‍🏫 Instrutores
-  Jacqueline Oliveira
-  Paulo Silveira
+- Jacqueline Oliveira
+- Paulo Silveira
 
 
 ## 🚀 Projeto do Curso Java One
